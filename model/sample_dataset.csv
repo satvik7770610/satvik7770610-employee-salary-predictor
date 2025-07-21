@@ -1,0 +1,501 @@
+age,education-num,hours-per-week,work_experience,company_type,job_role,location,remote_work,job_level,language_skills,gender,estimated_salary
+59,14,52,3,Govt,Software Engineer,Delhi,Yes,Senior,3,Male,121967
+49,14,32,8,MNC,HR,Delhi,Yes,Mid,5,Other,129047
+35,10,48,5,Startup,Manager,Chennai,Yes,Senior,4,Other,109336
+28,10,37,1,Govt,Software Engineer,Delhi,Yes,Executive,2,Other,104979
+41,16,34,16,Govt,HR,Hyderabad,Yes,Mid,5,Male,136468
+59,15,33,4,Freelance,Software Engineer,Bangalore,No,Intern,2,Female,104910
+39,16,53,24,Govt,Software Engineer,Chennai,Yes,Senior,4,Female,167996
+43,10,35,5,Govt,Manager,Hyderabad,Yes,Executive,3,Male,112629
+31,14,31,25,Startup,Sales,Mumbai,No,Intern,2,Female,155447
+31,11,49,11,Govt,Sales,Bangalore,No,Intern,1,Other,122629
+44,16,57,22,Startup,Software Engineer,Delhi,No,Intern,1,Female,182350
+56,14,40,20,Startup,Analyst,Bangalore,Yes,Intern,5,Female,152704
+44,11,33,9,Startup,HR,Mumbai,No,Mid,4,Female,118446
+23,11,44,21,Startup,Analyst,Chennai,Yes,Mid,5,Other,151019
+42,10,35,20,MNC,Analyst,Chennai,Yes,Mid,5,Male,147491
+22,16,51,26,Freelance,Software Engineer,Chennai,Yes,Executive,5,Other,194814
+44,13,46,24,MNC,Software Engineer,Delhi,No,Executive,1,Male,193634
+50,8,59,5,Govt,Software Engineer,Hyderabad,No,Executive,1,Male,132376
+58,10,53,26,MNC,Software Engineer,Hyderabad,No,Junior,5,Male,180602
+22,10,35,7,MNC,Sales,Bangalore,No,Executive,1,Female,145212
+41,13,48,1,Govt,Software Engineer,Delhi,No,Mid,4,Female,116347
+53,8,59,11,Govt,Sales,Chennai,Yes,Mid,5,Male,121092
+32,14,54,12,Govt,Sales,Chennai,Yes,Junior,1,Male,132224
+42,15,31,24,MNC,Software Engineer,Mumbai,Yes,Junior,2,Female,160343
+45,16,44,20,MNC,Manager,Mumbai,Yes,Executive,5,Other,196386
+47,15,40,6,Govt,HR,Chennai,No,Senior,5,Male,120221
+48,14,37,9,Freelance,Analyst,Chennai,No,Junior,4,Other,124678
+36,17,55,12,Freelance,Sales,Delhi,Yes,Intern,3,Female,155604
+35,10,48,16,Startup,HR,Hyderabad,No,Mid,3,Male,137857
+23,8,42,25,Govt,Manager,Mumbai,No,Intern,4,Other,130870
+57,10,41,20,Startup,Analyst,Hyderabad,Yes,Mid,4,Other,138751
+27,11,34,27,Freelance,Analyst,Delhi,Yes,Mid,4,Other,133497
+41,10,35,29,Startup,Sales,Chennai,No,Junior,3,Female,149256
+29,10,55,25,Govt,Software Engineer,Hyderabad,No,Junior,4,Female,152117
+59,14,51,13,Govt,Manager,Chennai,Yes,Intern,1,Other,132328
+38,14,33,1,Govt,Sales,Chennai,Yes,Mid,5,Other,95147
+24,14,48,27,MNC,Manager,Bangalore,Yes,Intern,5,Female,187492
+45,15,49,21,Startup,Software Engineer,Hyderabad,No,Senior,2,Other,170771
+34,11,30,10,Freelance,Software Engineer,Hyderabad,Yes,Intern,2,Other,92142
+29,17,49,0,Freelance,Sales,Chennai,Yes,Executive,5,Female,147261
+46,17,46,18,Freelance,Software Engineer,Delhi,No,Intern,1,Other,154935
+22,14,41,20,MNC,HR,Bangalore,No,Executive,3,Other,193122
+40,8,44,3,MNC,Analyst,Chennai,No,Executive,3,Other,138569
+48,15,30,18,Govt,Sales,Mumbai,No,Executive,1,Female,157012
+27,13,55,25,Freelance,Manager,Mumbai,No,Senior,3,Other,163348
+28,8,43,28,MNC,HR,Bangalore,Yes,Intern,4,Female,154696
+55,16,35,20,Govt,Sales,Delhi,Yes,Intern,5,Female,143217
+34,16,34,10,Freelance,Software Engineer,Chennai,No,Senior,5,Male,128572
+37,8,59,7,Startup,Software Engineer,Hyderabad,No,Mid,1,Male,125759
+56,14,40,10,Govt,Software Engineer,Bangalore,No,Junior,3,Other,123286
+24,13,33,3,MNC,Software Engineer,Delhi,No,Intern,2,Female,117791
+22,13,42,16,MNC,Manager,Hyderabad,No,Junior,2,Male,158480
+26,15,40,26,Govt,HR,Mumbai,Yes,Senior,3,Other,155371
+24,13,32,6,Govt,Analyst,Mumbai,Yes,Mid,2,Male,95806
+49,16,30,7,MNC,Manager,Hyderabad,Yes,Mid,1,Male,126004
+38,11,35,2,Startup,Manager,Bangalore,Yes,Mid,1,Female,92808
+46,14,47,21,Freelance,Analyst,Mumbai,No,Senior,3,Female,156617
+54,13,53,1,Startup,Analyst,Chennai,Yes,Executive,2,Male,145048
+30,15,39,22,Govt,Software Engineer,Hyderabad,No,Executive,1,Male,177763
+56,16,34,14,Startup,Manager,Hyderabad,No,Junior,1,Female,139190
+34,11,52,23,MNC,Sales,Mumbai,No,Executive,4,Other,202536
+51,10,39,21,Govt,Analyst,Bangalore,Yes,Executive,4,Female,150303
+35,10,41,21,Freelance,Analyst,Chennai,No,Mid,1,Male,127613
+28,11,31,4,MNC,HR,Bangalore,Yes,Mid,3,Other,111574
+34,16,42,23,MNC,Sales,Delhi,Yes,Junior,5,Male,182350
+43,15,37,0,Freelance,Sales,Delhi,No,Intern,5,Other,110916
+41,11,31,25,Freelance,Analyst,Mumbai,No,Junior,1,Male,128004
+36,14,49,3,Startup,Software Engineer,Mumbai,No,Junior,1,Other,131424
+38,14,30,14,Govt,HR,Mumbai,Yes,Senior,1,Other,120440
+44,10,34,19,Freelance,Sales,Delhi,No,Senior,3,Male,120424
+46,13,38,18,Freelance,Analyst,Bangalore,Yes,Junior,4,Other,135615
+45,15,46,2,Govt,Sales,Bangalore,No,Junior,1,Female,121283
+49,10,38,19,Freelance,HR,Mumbai,No,Junior,1,Male,121985
+35,13,40,10,Freelance,HR,Chennai,Yes,Executive,2,Female,143100
+21,13,44,16,Startup,Manager,Bangalore,Yes,Senior,3,Male,146184
+45,17,53,29,MNC,Analyst,Delhi,Yes,Junior,1,Other,195691
+27,14,35,26,MNC,HR,Hyderabad,Yes,Mid,2,Other,169690
+29,16,52,12,MNC,Manager,Hyderabad,Yes,Mid,5,Other,167417
+44,8,32,10,MNC,Manager,Hyderabad,Yes,Executive,1,Male,131331
+21,16,59,1,Freelance,Sales,Chennai,No,Executive,1,Female,160948
+28,8,46,8,Govt,Sales,Mumbai,No,Intern,2,Female,101322
+44,11,34,25,Govt,Manager,Delhi,Yes,Intern,3,Male,134499
+31,14,59,1,Startup,Sales,Chennai,No,Intern,1,Male,137508
+37,13,57,20,Startup,HR,Delhi,Yes,Executive,5,Female,193782
+28,15,41,8,Freelance,Software Engineer,Delhi,No,Executive,1,Female,153165
+55,8,47,8,Govt,HR,Mumbai,No,Executive,5,Female,136778
+55,16,43,7,Govt,Manager,Hyderabad,Yes,Mid,4,Female,123874
+53,13,50,16,MNC,Manager,Mumbai,Yes,Executive,4,Male,189062
+25,8,53,0,Freelance,HR,Chennai,Yes,Mid,5,Male,92263
+59,8,40,24,Freelance,Sales,Chennai,No,Intern,3,Other,132964
+48,17,38,28,MNC,Sales,Chennai,Yes,Intern,1,Female,187721
+27,8,31,10,Freelance,Manager,Mumbai,No,Intern,1,Other,85551
+29,15,41,7,Freelance,Analyst,Delhi,Yes,Junior,4,Male,125765
+28,14,32,9,Startup,Sales,Delhi,No,Junior,5,Male,131038
+32,15,32,24,Govt,HR,Bangalore,No,Senior,1,Other,148911
+54,10,30,6,Freelance,Sales,Chennai,Yes,Senior,1,Female,84820
+53,13,37,2,Startup,HR,Delhi,No,Senior,3,Female,109605
+43,14,51,2,Govt,Manager,Bangalore,No,Junior,2,Female,114307
+44,17,57,17,MNC,Sales,Delhi,Yes,Junior,4,Female,187737
+57,14,58,4,Startup,HR,Chennai,No,Senior,4,Other,141359
+55,14,37,11,Startup,Manager,Hyderabad,Yes,Senior,2,Other,126176
+42,16,40,11,Govt,Analyst,Chennai,Yes,Executive,1,Male,148751
+47,14,38,18,MNC,HR,Mumbai,Yes,Senior,3,Female,154866
+55,17,34,29,Startup,Analyst,Delhi,Yes,Executive,3,Female,196017
+21,15,43,5,Freelance,Analyst,Delhi,No,Mid,4,Female,125226
+55,14,57,1,Freelance,Software Engineer,Mumbai,No,Junior,3,Other,124805
+57,11,59,11,Freelance,Sales,Mumbai,No,Senior,2,Female,137570
+34,13,32,18,MNC,HR,Hyderabad,Yes,Junior,1,Other,142369
+23,14,50,4,Startup,Analyst,Delhi,No,Junior,2,Female,135039
+21,13,34,11,Freelance,Software Engineer,Delhi,No,Junior,5,Female,120391
+25,11,34,26,MNC,Manager,Hyderabad,Yes,Mid,4,Male,155992
+46,11,48,26,Freelance,HR,Bangalore,Yes,Intern,3,Female,145461
+34,13,56,16,Govt,Analyst,Hyderabad,No,Senior,5,Female,150363
+59,8,43,28,Startup,Sales,Chennai,Yes,Intern,3,Male,147103
+47,10,55,16,Startup,Software Engineer,Delhi,Yes,Intern,1,Other,138067
+29,16,59,9,MNC,Analyst,Mumbai,Yes,Intern,1,Other,164013
+35,8,33,24,MNC,Sales,Chennai,Yes,Junior,1,Female,133505
+35,8,54,22,Startup,Analyst,Delhi,No,Executive,3,Other,178614
+46,15,42,16,Freelance,HR,Hyderabad,Yes,Junior,5,Female,136683
+33,16,39,14,Freelance,HR,Chennai,Yes,Junior,1,Male,135255
+52,16,54,11,Govt,HR,Delhi,Yes,Intern,5,Male,145858
+59,8,47,29,Freelance,Software Engineer,Bangalore,Yes,Junior,3,Female,143115
+52,14,37,15,MNC,HR,Bangalore,Yes,Intern,5,Male,155090
+24,15,37,23,MNC,Sales,Mumbai,Yes,Executive,3,Male,194297
+50,15,36,18,Freelance,Analyst,Delhi,Yes,Senior,3,Female,140228
+57,11,37,7,MNC,Manager,Bangalore,Yes,Intern,4,Female,123678
+43,17,43,20,Startup,Sales,Hyderabad,No,Executive,3,Male,196198
+59,16,48,16,Startup,Sales,Delhi,Yes,Senior,3,Other,154773
+35,8,58,22,Freelance,HR,Hyderabad,No,Mid,2,Other,143653
+49,11,35,4,Startup,Software Engineer,Hyderabad,Yes,Intern,1,Female,94596
+56,13,30,21,Startup,Analyst,Bangalore,Yes,Intern,4,Female,144497
+33,10,52,15,Govt,Software Engineer,Delhi,Yes,Mid,4,Other,132107
+52,17,44,5,Govt,Analyst,Chennai,Yes,Mid,4,Male,131002
+27,17,30,7,Startup,Analyst,Bangalore,No,Intern,2,Other,129247
+42,17,54,24,Freelance,Software Engineer,Bangalore,Yes,Mid,3,Other,178720
+48,15,46,17,Govt,Sales,Delhi,Yes,Junior,1,Other,141814
+22,13,30,24,MNC,Analyst,Delhi,No,Senior,5,Other,160854
+26,17,44,11,MNC,Software Engineer,Hyderabad,No,Senior,3,Female,158770
+48,13,52,14,MNC,Analyst,Delhi,Yes,Senior,2,Female,151186
+48,14,31,26,Freelance,Manager,Hyderabad,No,Junior,3,Male,149805
+40,17,43,25,Startup,Sales,Bangalore,No,Mid,3,Male,177898
+50,10,50,8,MNC,HR,Mumbai,No,Executive,2,Male,160995
+31,13,37,12,Freelance,Analyst,Chennai,Yes,Mid,4,Male,121299
+48,13,37,25,Govt,Manager,Bangalore,Yes,Intern,4,Other,144182
+45,10,48,14,Startup,HR,Delhi,Yes,Senior,1,Female,132403
+59,17,36,9,Govt,HR,Chennai,No,Mid,1,Female,125730
+53,10,48,15,Freelance,Analyst,Mumbai,Yes,Executive,4,Male,150511
+21,13,35,6,MNC,Software Engineer,Mumbai,No,Intern,5,Male,126628
+47,10,35,16,MNC,Analyst,Hyderabad,Yes,Junior,3,Other,135961
+33,13,32,22,Freelance,Manager,Chennai,Yes,Junior,5,Other,134172
+23,13,36,25,MNC,HR,Hyderabad,No,Executive,3,Male,197293
+59,14,48,20,Startup,Analyst,Bangalore,Yes,Intern,4,Female,159765
+26,8,37,21,Freelance,Software Engineer,Chennai,No,Senior,1,Female,116470
+28,13,39,25,Govt,Analyst,Bangalore,No,Mid,1,Female,150045
+47,17,49,6,Freelance,Sales,Hyderabad,Yes,Intern,5,Male,137052
+29,11,44,13,Startup,Software Engineer,Chennai,No,Junior,1,Female,126127
+57,15,44,14,Startup,Manager,Hyderabad,Yes,Executive,4,Other,174589
+53,16,58,20,Freelance,HR,Chennai,Yes,Executive,5,Other,191544
+44,8,30,6,Freelance,Analyst,Hyderabad,No,Mid,3,Male,80841
+35,8,49,8,MNC,Software Engineer,Mumbai,Yes,Executive,1,Other,144384
+52,8,59,18,Startup,Sales,Hyderabad,No,Executive,2,Male,173185
+52,14,36,15,Freelance,Software Engineer,Mumbai,Yes,Intern,1,Female,118749
+44,13,56,7,Freelance,Sales,Hyderabad,Yes,Senior,3,Female,124425
+32,14,33,17,Startup,Manager,Chennai,Yes,Mid,5,Female,140543
+59,13,58,26,Freelance,HR,Chennai,Yes,Intern,3,Other,162474
+22,17,35,22,MNC,Manager,Chennai,Yes,Senior,2,Male,174517
+23,14,54,28,Startup,Analyst,Delhi,No,Intern,4,Female,189192
+57,14,30,17,MNC,Software Engineer,Bangalore,No,Intern,1,Male,150675
+37,15,58,29,MNC,Sales,Chennai,No,Executive,5,Female,237580
+22,11,34,19,MNC,Sales,Mumbai,No,Senior,4,Other,144672
+22,14,56,6,MNC,Software Engineer,Chennai,No,Mid,3,Other,155779
+48,15,52,2,Startup,Software Engineer,Delhi,No,Mid,5,Male,141031
+43,10,30,17,MNC,Analyst,Mumbai,Yes,Senior,4,Other,134518
+57,11,59,26,MNC,Manager,Delhi,Yes,Executive,5,Other,211162
+52,17,33,9,Freelance,Sales,Mumbai,No,Junior,2,Male,123987
+53,14,51,6,Startup,Analyst,Hyderabad,No,Intern,2,Female,132090
+21,16,31,16,Startup,Manager,Bangalore,Yes,Executive,1,Other,167221
+39,8,39,13,Govt,Analyst,Bangalore,Yes,Senior,1,Male,97559
+22,10,34,23,Startup,Sales,Delhi,Yes,Intern,2,Other,130773
+46,10,56,2,Startup,Software Engineer,Bangalore,No,Mid,5,Other,127378
+52,17,39,11,Govt,Software Engineer,Delhi,No,Junior,2,Other,140383
+26,15,30,27,Startup,Manager,Delhi,No,Mid,1,Other,162909
+52,10,51,12,Startup,HR,Delhi,Yes,Senior,2,Male,127440
+24,11,35,1,Startup,Manager,Bangalore,Yes,Intern,2,Male,96347
+31,14,42,2,Startup,HR,Delhi,No,Senior,5,Male,120508
+37,14,44,4,Govt,Analyst,Bangalore,No,Intern,4,Other,117783
+58,16,33,10,Startup,Analyst,Delhi,Yes,Executive,1,Other,155146
+44,17,42,7,Startup,Sales,Chennai,Yes,Junior,5,Other,140798
+25,8,53,25,Govt,HR,Delhi,Yes,Executive,2,Male,162668
+54,15,49,22,Freelance,Sales,Mumbai,Yes,Executive,2,Other,180287
+26,8,53,22,MNC,Software Engineer,Delhi,No,Senior,4,Female,157052
+42,10,44,11,Freelance,HR,Hyderabad,Yes,Junior,1,Other,108509
+31,17,58,6,Govt,Manager,Delhi,Yes,Intern,1,Female,136216
+36,16,37,14,MNC,Software Engineer,Mumbai,Yes,Intern,3,Other,148810
+53,8,34,23,Govt,Software Engineer,Mumbai,No,Mid,1,Male,118038
+29,11,58,16,Govt,Manager,Bangalore,No,Intern,4,Other,141260
+26,14,44,3,Startup,Software Engineer,Chennai,Yes,Senior,3,Female,119432
+36,10,33,28,MNC,HR,Delhi,Yes,Executive,3,Female,174084
+49,16,41,21,Startup,Sales,Bangalore,Yes,Executive,2,Other,187616
+23,8,42,24,MNC,Software Engineer,Chennai,No,Executive,2,Female,178551
+40,15,31,12,Govt,HR,Delhi,No,Junior,1,Female,119366
+56,11,56,17,Govt,Analyst,Hyderabad,No,Intern,3,Male,144398
+39,11,48,0,Freelance,HR,Delhi,Yes,Senior,2,Other,92011
+46,8,48,15,MNC,Sales,Mumbai,No,Junior,4,Other,142251
+23,14,33,12,Startup,HR,Mumbai,Yes,Mid,2,Other,125939
+39,8,33,9,Freelance,Manager,Hyderabad,Yes,Senior,2,Female,85006
+40,10,55,11,Freelance,Sales,Bangalore,Yes,Senior,3,Other,118125
+52,8,40,29,Freelance,Analyst,Chennai,No,Senior,3,Other,135390
+27,11,56,1,Startup,Manager,Delhi,Yes,Executive,5,Male,145578
+53,16,34,22,Freelance,HR,Mumbai,No,Senior,4,Male,155036
+59,8,49,2,Startup,Sales,Bangalore,No,Intern,3,Male,108423
+38,14,40,9,Freelance,Analyst,Hyderabad,Yes,Senior,1,Female,114461
+21,17,59,1,Startup,Manager,Mumbai,Yes,Executive,4,Other,167504
+31,16,39,29,Govt,Analyst,Hyderabad,No,Senior,4,Male,175806
+48,15,37,26,Govt,HR,Delhi,Yes,Mid,3,Male,152306
+45,13,35,22,Govt,Analyst,Chennai,No,Mid,4,Male,143100
+43,8,35,12,Govt,Software Engineer,Mumbai,Yes,Executive,3,Other,117219
+51,14,37,12,Govt,Manager,Mumbai,No,Intern,2,Other,126686
+50,16,52,17,Freelance,Analyst,Delhi,No,Intern,5,Other,159087
+55,14,44,2,Freelance,HR,Bangalore,No,Junior,2,Female,114000
+27,15,55,26,Freelance,HR,Chennai,No,Executive,3,Female,206303
+36,11,43,6,Startup,Analyst,Mumbai,Yes,Senior,3,Male,109396
+46,14,40,13,Startup,HR,Chennai,Yes,Executive,2,Other,160558
+22,16,41,19,Startup,Sales,Mumbai,No,Junior,1,Male,162969
+21,14,55,28,Startup,Sales,Chennai,No,Executive,1,Other,208147
+32,14,42,29,Govt,Sales,Hyderabad,Yes,Executive,1,Other,187328
+25,14,37,16,Govt,Software Engineer,Mumbai,Yes,Junior,3,Other,126932
+57,10,59,28,Govt,Analyst,Chennai,Yes,Intern,4,Female,159904
+52,10,47,29,MNC,Software Engineer,Bangalore,Yes,Senior,3,Female,171337
+29,11,54,20,Freelance,HR,Hyderabad,Yes,Junior,4,Other,140449
+55,8,30,11,Startup,Software Engineer,Hyderabad,Yes,Mid,2,Male,96500
+39,14,44,24,Startup,HR,Bangalore,No,Intern,5,Other,170954
+36,15,37,15,Govt,HR,Chennai,Yes,Mid,4,Other,137424
+23,8,57,23,Startup,Manager,Delhi,Yes,Intern,1,Male,145617
+40,15,40,11,Startup,Sales,Bangalore,No,Senior,3,Other,145369
+44,8,41,14,Freelance,HR,Chennai,Yes,Senior,2,Male,101028
+53,11,41,24,Govt,Manager,Bangalore,Yes,Executive,1,Female,161345
+44,14,33,9,Freelance,Sales,Bangalore,Yes,Mid,2,Female,108758
+31,14,45,29,MNC,HR,Mumbai,Yes,Intern,5,Male,187404
+28,13,33,24,MNC,HR,Chennai,Yes,Senior,3,Female,157124
+56,15,34,6,MNC,Software Engineer,Delhi,No,Junior,3,Female,139348
+58,8,53,19,Govt,Software Engineer,Mumbai,Yes,Senior,5,Male,125665
+40,8,34,4,Startup,Sales,Bangalore,No,Junior,3,Female,93091
+55,17,37,0,Govt,HR,Bangalore,No,Intern,4,Other,111589
+45,17,39,29,Govt,Analyst,Bangalore,Yes,Senior,2,Other,167524
+55,10,46,16,Startup,Software Engineer,Chennai,No,Senior,1,Male,132321
+45,13,57,2,Freelance,Sales,Chennai,Yes,Intern,5,Female,122009
+49,16,55,12,MNC,HR,Mumbai,No,Senior,4,Other,176693
+38,17,38,13,Freelance,HR,Delhi,No,Junior,1,Other,142954
+38,16,51,23,MNC,Analyst,Mumbai,Yes,Senior,1,Female,177571
+22,10,48,29,Govt,Sales,Hyderabad,Yes,Mid,5,Female,152080
+55,10,58,17,MNC,HR,Bangalore,Yes,Executive,4,Other,185962
+36,10,43,3,Govt,Software Engineer,Bangalore,Yes,Junior,1,Other,85768
+56,15,37,17,Freelance,Analyst,Bangalore,Yes,Mid,1,Male,137468
+53,15,38,29,Govt,Sales,Mumbai,No,Intern,4,Male,164462
+24,11,51,4,Freelance,Analyst,Mumbai,No,Junior,3,Other,116960
+53,11,40,24,Startup,Software Engineer,Bangalore,No,Executive,1,Male,169515
+34,10,52,15,Startup,Sales,Mumbai,No,Executive,2,Other,169275
+41,13,30,0,Startup,Analyst,Chennai,No,Intern,4,Other,105984
+40,8,43,20,Govt,Manager,Chennai,No,Intern,1,Male,116906
+28,15,34,13,Startup,Software Engineer,Mumbai,No,Junior,5,Male,144884
+27,13,50,14,MNC,Software Engineer,Bangalore,Yes,Senior,2,Female,154049
+23,14,55,8,Freelance,Software Engineer,Mumbai,Yes,Intern,1,Female,129669
+37,15,43,14,Freelance,Manager,Mumbai,No,Senior,2,Female,141982
+53,15,33,16,MNC,Manager,Mumbai,No,Mid,2,Other,148985
+32,11,51,24,Govt,HR,Hyderabad,Yes,Executive,3,Male,171985
+42,8,52,23,Govt,Analyst,Chennai,Yes,Senior,2,Other,136901
+42,8,54,3,Freelance,HR,Delhi,Yes,Executive,3,Male,119118
+50,17,30,11,Startup,Analyst,Delhi,Yes,Senior,4,Other,137289
+58,16,51,26,Govt,Manager,Hyderabad,No,Mid,3,Female,181103
+58,16,52,25,Govt,Manager,Mumbai,Yes,Intern,5,Female,175428
+28,16,48,4,MNC,HR,Hyderabad,No,Mid,1,Female,146868
+47,16,37,28,MNC,Sales,Hyderabad,No,Intern,4,Other,187621
+47,14,44,4,Startup,HR,Bangalore,No,Intern,4,Male,133677
+54,14,50,10,Govt,Analyst,Chennai,Yes,Executive,5,Male,161066
+41,15,44,27,Govt,HR,Delhi,Yes,Mid,3,Female,162170
+50,10,38,5,MNC,Software Engineer,Mumbai,No,Senior,1,Female,117158
+53,11,50,6,Govt,Analyst,Delhi,No,Mid,3,Female,111503
+48,11,38,23,Freelance,Analyst,Delhi,No,Executive,2,Female,163504
+53,16,39,13,MNC,Sales,Chennai,Yes,Intern,3,Male,150966
+25,15,49,23,Startup,Manager,Delhi,No,Executive,4,Other,197939
+39,17,54,10,MNC,Analyst,Delhi,Yes,Junior,1,Other,160135
+24,13,50,29,Govt,Manager,Hyderabad,No,Junior,3,Other,174390
+55,10,55,12,Startup,HR,Chennai,No,Senior,1,Other,138595
+37,15,38,1,MNC,Software Engineer,Bangalore,No,Executive,1,Female,152765
+48,10,32,24,Freelance,Sales,Mumbai,Yes,Senior,2,Female,119895
+50,10,49,6,Freelance,Manager,Delhi,Yes,Senior,2,Female,105524
+49,10,54,19,MNC,Analyst,Mumbai,No,Junior,4,Other,159073
+26,15,55,3,Freelance,Manager,Bangalore,Yes,Senior,5,Female,128684
+55,16,40,26,Freelance,Analyst,Mumbai,No,Junior,1,Female,159902
+57,11,35,7,Freelance,Manager,Bangalore,Yes,Intern,5,Male,100395
+44,11,31,19,Startup,Analyst,Hyderabad,Yes,Executive,4,Male,156331
+49,16,36,28,Freelance,HR,Delhi,Yes,Senior,1,Female,161843
+51,10,47,21,Freelance,Analyst,Bangalore,No,Junior,1,Male,132456
+55,13,56,20,Freelance,Analyst,Mumbai,Yes,Mid,5,Male,157523
+53,8,31,18,Startup,Software Engineer,Delhi,Yes,Senior,3,Female,112407
+41,15,56,12,MNC,Analyst,Hyderabad,No,Intern,2,Female,163807
+52,8,46,13,Govt,Software Engineer,Delhi,No,Intern,3,Female,116878
+43,17,40,9,Freelance,Sales,Bangalore,No,Mid,5,Female,138327
+53,16,56,10,MNC,Software Engineer,Hyderabad,No,Junior,2,Other,167524
+23,13,41,1,Freelance,HR,Mumbai,Yes,Senior,3,Other,103999
+38,15,56,24,Startup,Software Engineer,Hyderabad,Yes,Junior,2,Female,174284
+45,16,48,25,MNC,Sales,Hyderabad,Yes,Intern,1,Male,183813
+51,10,51,8,Startup,HR,Chennai,Yes,Junior,3,Female,117257
+23,11,53,16,Freelance,Manager,Hyderabad,Yes,Intern,2,Female,131887
+44,8,54,25,Freelance,Manager,Hyderabad,No,Junior,2,Male,142854
+52,14,36,2,Startup,Software Engineer,Delhi,Yes,Mid,2,Other,107558
+42,14,49,23,Govt,Software Engineer,Mumbai,Yes,Executive,3,Female,185272
+43,13,35,5,Startup,Sales,Delhi,Yes,Mid,4,Female,108961
+22,10,50,4,Freelance,Sales,Delhi,No,Mid,3,Other,106347
+47,17,53,4,Startup,Analyst,Bangalore,No,Executive,5,Other,178226
+22,8,30,21,Govt,Sales,Delhi,Yes,Executive,3,Male,132075
+46,10,46,14,Startup,Analyst,Chennai,No,Senior,2,Other,136067
+37,8,58,22,Govt,HR,Chennai,No,Senior,1,Other,137918
+53,13,40,16,Govt,Software Engineer,Bangalore,No,Mid,3,Other,132698
+29,13,51,8,Startup,HR,Mumbai,No,Mid,3,Male,134501
+59,17,55,2,Startup,Sales,Mumbai,No,Intern,2,Other,145244
+49,14,57,19,MNC,HR,Delhi,No,Intern,1,Other,179619
+46,10,47,25,Freelance,HR,Delhi,No,Senior,1,Male,142566
+55,15,50,16,Govt,HR,Delhi,Yes,Senior,5,Other,147345
+45,14,46,28,MNC,Sales,Mumbai,Yes,Intern,3,Other,187173
+44,10,36,26,Startup,HR,Hyderabad,No,Intern,1,Male,148349
+33,14,46,9,Freelance,Analyst,Chennai,Yes,Junior,1,Female,121816
+27,15,49,2,MNC,Sales,Hyderabad,Yes,Junior,4,Male,134422
+56,11,38,17,Govt,HR,Hyderabad,No,Intern,4,Other,128715
+40,11,46,17,MNC,Sales,Mumbai,Yes,Junior,1,Other,144766
+21,17,49,29,Govt,Manager,Hyderabad,No,Executive,5,Other,215049
+28,11,51,16,Startup,Analyst,Bangalore,No,Senior,1,Male,144816
+36,11,51,23,Freelance,HR,Delhi,No,Senior,2,Other,146710
+34,16,57,2,Freelance,Manager,Bangalore,Yes,Intern,3,Other,133144
+32,8,58,2,Freelance,Manager,Chennai,Yes,Mid,5,Male,104569
+43,16,37,5,Startup,Sales,Delhi,Yes,Intern,2,Female,120657
+35,16,46,12,Govt,Manager,Hyderabad,Yes,Junior,5,Female,139041
+48,17,36,23,Startup,Analyst,Chennai,No,Mid,2,Other,169763
+54,16,30,28,Freelance,Analyst,Delhi,No,Junior,3,Male,157575
+22,11,42,14,Startup,Software Engineer,Hyderabad,Yes,Executive,3,Other,151664
+52,15,59,24,Startup,Analyst,Bangalore,No,Junior,4,Male,185053
+43,17,52,8,Startup,Manager,Delhi,No,Executive,2,Male,182479
+42,17,48,3,Govt,Analyst,Hyderabad,Yes,Executive,4,Female,153737
+45,13,56,13,MNC,Sales,Bangalore,No,Junior,2,Female,160217
+42,17,53,4,MNC,Software Engineer,Chennai,Yes,Junior,4,Male,151447
+42,13,48,1,Startup,Manager,Chennai,No,Executive,3,Other,147509
+26,17,59,10,MNC,Software Engineer,Chennai,Yes,Mid,5,Female,170107
+35,8,59,8,MNC,Manager,Chennai,No,Executive,4,Other,162552
+57,11,58,23,Startup,Sales,Mumbai,No,Senior,2,Female,162764
+53,17,46,2,Startup,Software Engineer,Delhi,Yes,Executive,2,Female,160417
+28,11,42,26,Freelance,HR,Delhi,Yes,Mid,3,Other,146927
+25,11,58,27,MNC,Manager,Mumbai,Yes,Senior,2,Female,183221
+59,14,59,28,Govt,HR,Hyderabad,Yes,Intern,1,Female,170171
+24,17,45,8,Startup,Software Engineer,Hyderabad,No,Intern,5,Other,153019
+26,10,37,2,Freelance,HR,Chennai,No,Mid,4,Female,90962
+52,14,48,24,Govt,HR,Bangalore,Yes,Executive,5,Female,182677
+50,10,47,1,MNC,Software Engineer,Hyderabad,No,Junior,3,Female,117222
+55,11,30,11,Freelance,Sales,Bangalore,Yes,Mid,4,Other,101906
+36,11,43,9,Startup,HR,Delhi,Yes,Senior,4,Male,123263
+33,14,48,8,Govt,HR,Bangalore,No,Senior,1,Other,126554
+50,14,44,14,Startup,Sales,Delhi,No,Intern,3,Male,152167
+39,10,47,7,MNC,HR,Mumbai,Yes,Senior,2,Female,119808
+37,13,31,24,Govt,HR,Mumbai,Yes,Mid,1,Male,136670
+39,10,51,4,MNC,HR,Chennai,Yes,Senior,1,Other,116225
+48,14,57,10,MNC,Analyst,Hyderabad,No,Mid,5,Other,168201
+46,15,46,26,Freelance,Sales,Chennai,No,Junior,5,Female,166716
+57,14,47,1,Startup,HR,Delhi,No,Intern,5,Male,126551
+46,15,59,23,Govt,Sales,Chennai,No,Senior,1,Female,168697
+43,8,35,27,MNC,Manager,Bangalore,Yes,Mid,2,Female,141806
+29,14,48,14,MNC,Manager,Delhi,Yes,Executive,4,Other,186970
+32,8,33,5,Govt,HR,Mumbai,Yes,Intern,5,Male,78472
+21,13,30,7,MNC,Sales,Hyderabad,Yes,Junior,2,Male,119634
+21,10,37,26,Freelance,Sales,Delhi,Yes,Mid,3,Male,135983
+54,15,58,4,Freelance,Sales,Delhi,Yes,Junior,5,Male,130623
+52,10,52,15,Freelance,Analyst,Bangalore,No,Junior,4,Female,136790
+45,8,36,25,Freelance,Manager,Hyderabad,No,Senior,3,Female,122724
+21,15,32,17,MNC,Sales,Mumbai,Yes,Senior,3,Other,154532
+36,10,39,5,Govt,Sales,Delhi,Yes,Mid,4,Female,91814
+59,14,39,4,Govt,Analyst,Delhi,No,Executive,5,Female,136606
+25,11,48,27,Govt,Analyst,Bangalore,No,Mid,1,Other,147624
+42,8,43,15,Govt,Sales,Chennai,No,Executive,4,Other,139246
+49,10,31,12,Startup,Software Engineer,Mumbai,No,Junior,4,Other,113931
+23,8,57,27,Govt,Sales,Hyderabad,Yes,Intern,4,Female,146971
+32,16,30,4,Startup,Sales,Delhi,Yes,Mid,3,Female,113517
+46,8,52,12,Startup,Analyst,Delhi,Yes,Mid,2,Other,123415
+36,15,52,16,Freelance,Analyst,Mumbai,Yes,Executive,1,Other,167915
+57,16,57,17,Startup,Sales,Chennai,Yes,Junior,5,Other,170596
+42,17,47,7,MNC,Sales,Delhi,No,Junior,5,Female,158109
+49,15,36,12,Startup,Sales,Mumbai,Yes,Executive,2,Female,153717
+34,11,58,29,Freelance,Analyst,Bangalore,No,Junior,4,Male,169561
+48,16,37,28,Startup,Sales,Chennai,Yes,Senior,1,Female,172708
+25,17,30,18,MNC,Sales,Hyderabad,Yes,Intern,5,Female,163282
+50,14,54,25,MNC,HR,Delhi,Yes,Mid,5,Female,183548
+25,8,52,2,MNC,Software Engineer,Mumbai,Yes,Intern,4,Other,118549
+32,10,32,23,Freelance,Manager,Bangalore,Yes,Mid,2,Female,124307
+36,13,53,7,Freelance,Software Engineer,Hyderabad,No,Senior,1,Other,128405
+46,8,52,1,Govt,HR,Mumbai,No,Junior,2,Male,98993
+46,17,56,7,Freelance,Manager,Mumbai,No,Executive,2,Male,171578
+41,8,58,26,MNC,Sales,Hyderabad,Yes,Senior,1,Other,160120
+59,11,37,12,MNC,HR,Bangalore,Yes,Intern,1,Other,128048
+56,14,51,12,Freelance,Sales,Bangalore,No,Executive,5,Other,170881
+53,13,54,0,Startup,Analyst,Chennai,Yes,Junior,5,Female,123280
+50,16,44,5,Freelance,HR,Delhi,Yes,Senior,1,Male,118292
+57,16,34,23,Freelance,Analyst,Hyderabad,No,Executive,3,Other,176441
+43,16,32,18,MNC,HR,Hyderabad,Yes,Senior,5,Female,160195
+30,17,48,15,Govt,HR,Hyderabad,No,Senior,3,Male,156901
+25,15,30,7,MNC,Analyst,Bangalore,Yes,Junior,1,Female,129669
+56,15,57,27,Govt,Manager,Delhi,No,Mid,5,Male,184697
+54,10,44,0,MNC,Software Engineer,Chennai,Yes,Executive,2,Female,132450
+51,13,37,26,Freelance,Sales,Mumbai,Yes,Junior,1,Male,146475
+30,16,31,26,MNC,HR,Mumbai,No,Senior,4,Male,181432
+39,15,32,15,MNC,Sales,Hyderabad,Yes,Junior,3,Female,147374
+52,17,53,8,MNC,Analyst,Delhi,Yes,Mid,1,Other,155053
+21,10,43,12,Freelance,Sales,Bangalore,No,Executive,1,Male,134512
+25,14,53,10,Freelance,Analyst,Delhi,Yes,Mid,5,Other,139878
+24,10,43,12,Freelance,Sales,Delhi,No,Intern,5,Female,116381
+36,15,40,24,Freelance,Software Engineer,Bangalore,Yes,Executive,5,Other,182299
+44,11,45,20,Govt,Software Engineer,Hyderabad,Yes,Mid,4,Other,134586
+36,17,33,9,Govt,Software Engineer,Delhi,Yes,Senior,5,Other,130122
+22,11,49,3,Startup,Software Engineer,Mumbai,Yes,Executive,1,Other,138930
+48,16,34,26,Freelance,Software Engineer,Bangalore,No,Executive,5,Other,188947
+52,11,51,5,Govt,Software Engineer,Chennai,Yes,Junior,2,Male,105345
+47,16,50,27,MNC,Analyst,Hyderabad,No,Senior,5,Male,195575
+40,16,43,6,Freelance,HR,Bangalore,Yes,Intern,4,Male,129548
+44,15,52,4,Startup,Sales,Chennai,Yes,Mid,2,Female,133877
+32,11,45,10,Startup,Software Engineer,Chennai,Yes,Junior,1,Other,122285
+55,16,47,12,Startup,Analyst,Delhi,Yes,Mid,1,Male,146422
+53,13,36,25,MNC,Analyst,Delhi,No,Intern,3,Female,170590
+53,14,39,24,Govt,Analyst,Delhi,No,Intern,2,Male,148330
+57,10,36,18,MNC,HR,Bangalore,No,Executive,3,Male,166186
+32,10,30,22,Freelance,Sales,Bangalore,No,Intern,2,Other,118902
+23,15,52,9,Startup,HR,Hyderabad,Yes,Mid,2,Female,142670
+21,11,50,9,MNC,Manager,Delhi,No,Senior,4,Other,145143
+53,11,48,10,MNC,Analyst,Chennai,No,Senior,3,Other,138559
+30,16,45,20,Govt,Manager,Mumbai,Yes,Executive,4,Male,175140
+49,17,58,29,Govt,Software Engineer,Hyderabad,Yes,Mid,2,Other,183789
+33,8,48,6,Startup,Software Engineer,Bangalore,Yes,Mid,1,Female,98516
+32,16,33,17,MNC,HR,Hyderabad,Yes,Intern,2,Other,149464
+51,14,58,3,MNC,Sales,Hyderabad,No,Mid,4,Other,150471
+22,13,57,1,Govt,Manager,Hyderabad,No,Junior,3,Other,117327
+55,10,47,13,MNC,Sales,Hyderabad,Yes,Intern,3,Male,141211
+43,16,31,12,MNC,HR,Mumbai,Yes,Junior,4,Female,145956
+37,8,30,28,MNC,Software Engineer,Delhi,Yes,Executive,3,Male,162589
+46,8,44,11,Govt,Sales,Chennai,No,Senior,5,Male,110315
+28,16,34,6,Startup,Sales,Hyderabad,No,Executive,1,Male,149351
+49,15,49,1,Freelance,Software Engineer,Hyderabad,Yes,Senior,1,Male,110343
+46,10,40,12,Startup,Manager,Hyderabad,Yes,Executive,1,Male,144617
+30,15,39,13,Freelance,Software Engineer,Delhi,No,Mid,3,Female,136043
+46,13,31,26,MNC,Sales,Bangalore,Yes,Junior,3,Other,160401
+54,8,32,16,Startup,Manager,Bangalore,Yes,Senior,2,Male,104969
+27,8,52,8,Freelance,Manager,Mumbai,No,Intern,2,Male,104094
+24,14,52,16,Govt,Software Engineer,Bangalore,Yes,Junior,1,Female,142624
+31,13,41,7,Govt,Sales,Hyderabad,No,Intern,5,Female,121847
+49,8,49,1,Startup,HR,Hyderabad,Yes,Junior,2,Other,94195
+56,13,34,27,Startup,Sales,Hyderabad,Yes,Junior,2,Female,149404
+45,10,34,23,MNC,Analyst,Mumbai,No,Executive,3,Other,176440
+41,11,35,12,Startup,HR,Hyderabad,No,Senior,5,Male,124790
+56,8,59,2,MNC,Manager,Bangalore,Yes,Senior,1,Male,115482
+30,14,38,15,MNC,HR,Delhi,No,Junior,2,Other,152555
+57,10,31,5,Govt,Manager,Delhi,Yes,Mid,5,Female,91454
+29,16,50,18,Govt,Manager,Chennai,Yes,Mid,5,Other,157213
+44,13,41,29,Freelance,HR,Bangalore,No,Intern,1,Female,155592
+55,16,32,6,Govt,Manager,Hyderabad,Yes,Intern,5,Male,114659
+55,15,49,9,Govt,Manager,Delhi,Yes,Executive,5,Female,160808
+56,10,55,8,Startup,Analyst,Bangalore,No,Junior,5,Other,135978
+38,16,51,1,Govt,Sales,Delhi,No,Intern,2,Other,128476
+59,17,41,27,Freelance,Sales,Hyderabad,Yes,Intern,1,Male,164433
+52,17,53,27,Startup,Analyst,Delhi,No,Junior,5,Female,197426
+44,8,46,14,Freelance,HR,Chennai,No,Executive,5,Female,147879
+43,13,39,29,Govt,Software Engineer,Chennai,No,Intern,2,Female,155969
+52,11,59,4,Freelance,Software Engineer,Delhi,No,Executive,1,Male,140465
+57,10,53,28,Startup,Software Engineer,Bangalore,Yes,Senior,3,Female,162819
+32,8,56,21,MNC,Analyst,Bangalore,Yes,Executive,2,Other,181975
+33,14,43,3,Freelance,Analyst,Bangalore,Yes,Mid,1,Female,108608
+43,15,52,19,Freelance,Manager,Delhi,No,Mid,5,Male,166641
+45,13,46,3,Startup,Software Engineer,Bangalore,No,Executive,1,Female,144439
+55,10,47,17,Startup,HR,Hyderabad,No,Mid,1,Female,132544
+50,17,48,3,Freelance,HR,Chennai,No,Senior,1,Other,125310
+37,10,46,26,Govt,Software Engineer,Hyderabad,No,Junior,3,Female,147066
+40,11,43,16,Freelance,Software Engineer,Bangalore,No,Mid,1,Other,129521
+45,17,38,11,Startup,Software Engineer,Hyderabad,No,Mid,3,Other,144409
+42,11,37,21,MNC,Analyst,Bangalore,Yes,Executive,5,Male,176864
+33,14,31,16,MNC,Analyst,Delhi,Yes,Senior,3,Other,141081
+39,15,42,9,Govt,Analyst,Hyderabad,No,Junior,5,Other,128191
+56,14,54,21,Freelance,Sales,Delhi,No,Executive,5,Male,185431
+32,8,36,0,MNC,HR,Delhi,No,Executive,3,Other,125410
+39,8,38,21,Freelance,HR,Mumbai,Yes,Senior,2,Male,116382
+32,14,51,25,Startup,Manager,Bangalore,Yes,Junior,4,Female,171406
+29,15,51,23,MNC,Analyst,Chennai,No,Senior,1,Male,186839
+27,14,40,26,Govt,Sales,Bangalore,No,Junior,4,Other,155032
+48,15,43,17,Startup,Sales,Chennai,Yes,Senior,1,Male,144811
+34,15,33,17,Govt,HR,Bangalore,Yes,Executive,1,Other,157079
+51,16,55,13,Startup,Analyst,Delhi,Yes,Executive,5,Female,185621
+39,17,55,14,MNC,Manager,Hyderabad,Yes,Intern,1,Male,169373
+36,13,58,28,Govt,Analyst,Hyderabad,No,Mid,1,Female,176607
+25,15,42,11,Govt,Software Engineer,Mumbai,Yes,Senior,3,Other,130281
+55,11,31,3,Startup,Analyst,Chennai,Yes,Intern,4,Other,95748
+32,15,52,26,Govt,Software Engineer,Chennai,No,Mid,3,Female,168777
+45,15,34,2,Startup,Software Engineer,Chennai,Yes,Senior,1,Male,106359
+41,15,40,19,Startup,Manager,Delhi,Yes,Junior,5,Male,156429
+56,16,35,28,Startup,HR,Chennai,Yes,Mid,3,Other,171292
+43,17,47,11,Startup,Analyst,Hyderabad,No,Executive,3,Female,181213
+36,16,50,6,MNC,Software Engineer,Delhi,Yes,Intern,2,Female,148675
+59,8,39,28,Startup,Analyst,Bangalore,No,Mid,1,Male,139670
