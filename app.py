@@ -10,15 +10,17 @@ encoders = joblib.load("model/encoders.pkl")
 
 st.set_page_config("Employee Salary Predictor", layout="wide", page_icon="💼")
 
-st.markdown(
-    """
+st.markdown("""
     <style>
-    .main {background-color: #f7f9fb;}
-    h1, h2, h3 {color: #003366;}
+    .css-1n76uvr .stSlider > div > div {
+        background-color: #4a90e2 !important;  /* slider color */
+    }
+    .stButton>button {
+        background-color: #2ecc71;
+        color: white;
+    }
     </style>
-    """,
-    unsafe_allow_html=True,
-)
+""", unsafe_allow_html=True)
 
 st.title("💼 Employee Salary Predictor")
 st.subheader("Estimate your monthly salary based on your professional profile")
